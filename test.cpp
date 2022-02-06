@@ -392,7 +392,7 @@ cout << endl << endl << "You: ";
 
 
 cout << endl << endl << "Unknown: ";
-string text14 = "Perfect! To be fair, I will say my name. My name is JOE! I am glad to get aquinted with you. However, unfortunately, it's my time to leave. You are going to start now! ENJOY & GOODBYE, ";
+string text14 = "Perfect! To be fair, I will say my name. My name is Andrew! I am glad to get aquinted with you. However, unfortunately, it's my time to leave. You are going to start now! ENJOY & GOODBYE, ";
 
 for (int i = 0; i<= text14.size(); i++)
 {
@@ -1777,7 +1777,7 @@ for (int i = 1; i<= 66; i++)
 Sleep (1000);
 
 cout << endl << "You: ";
-string text18 = "wow! This house is quite big. Should I enter in it?";
+string text18 = "wow! This house is quite big. Should I enter it?";
 for (int i = 0; i<= text18.size(); i++)
 {
     cout << text18[i];
